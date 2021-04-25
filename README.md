@@ -4,3 +4,8 @@
   - Tính biểu thức hậu tố (postfix): [cal_postfix.cpp](https://github.com/phamxuansang241/Cau_truc_du_lieu_va_Giai_thuat/blob/main/cal_postfix.cpp).
 - **linked list**
   - Cộng hai đa thức: [add_poly.cpp](https://github.com/phamxuansang241/Cau_truc_du_lieu_va_Giai_thuat/blob/main/add_poly.cpp).
+- **binary tree**
+  - Duyệt cây: 
+    - Inorder: [Inorder.cpp](https://github.com/phamxuansang241/Cau_truc_du_lieu_va_Giai_thuat/blob/main/Inorder.cpp).
+    - Preorder: [Preorder.cpp](https://github.com/phamxuansang241/Cau_truc_du_lieu_va_Giai_thuat/blob/main/Preorder.cpp).
+    - Postorder: [Postorder.cpp](https://github.com/phamxuansang241/Cau_truc_du_lieu_va_Giai_thuat/blob/main/Postorder.cpp).
